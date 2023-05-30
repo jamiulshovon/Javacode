@@ -5,6 +5,6 @@ public class spider extends Animal {
 
     @Override
     public void eat() {
-        System.out.println(" ");
+        System.out.println("Spider is Eating");
     }
 }
