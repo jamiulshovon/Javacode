@@ -16,11 +16,11 @@ public class Cat extends Animal implements pet {
     }
 
     public void play() {
-        System.out.println("   ");
+        System.out.println(" Cat is playing");
     }
 
     public void eat() {
-        System.out.println("    ");
+        System.out.println("Cat is eating");
     }
 
 }
