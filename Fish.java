@@ -15,11 +15,11 @@ public class Fish extends Animal implements pet{
     }
 
     public void play() {
-        System.out.println(" Playing");
+        System.out.println(" Fish is Playing");
     }
 
     public void eat() {
-        System.out.println(" ");
+        System.out.println("Fish is eating");
     }
 
 }
