@@ -5,7 +5,7 @@ public abstract class Animal {
         this.legs=legs;
     }
     public void walk(){
-        System.out.println(" ");
+        System.out.println("Animals can eat");
     }
     public abstract void eat();
 }
